@@ -39,3 +39,4 @@ MANIFEST
 # Sphinx documentation
 docs/_build/
 docs/_autosummary/
+uv.lock
